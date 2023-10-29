@@ -81,8 +81,8 @@ def select_and_save_receiver_emails(username, password, folder_name, output_dire
 
 if __name__ == "__main__":
     # Replace with your Office 365 email and password
-    username = "Sherri-87@hotmail.com"
-    password = "Teheresa12"
+    username = ""
+    password = ""
 
     # List available folders
     available_folders = list_available_folders(username, password)
